@@ -1,0 +1,167 @@
+* {
+    padding:0px;
+    margin: auto;
+   
+    background-color: #1e1b26;
+
+}
+a:link{
+    color: #dddddd;
+}
+a:hover{
+    color: #dddddd;
+}
+a:visited{
+    color: #dddddd;
+}
+a{
+    text-decoration:none;
+    cursor: pointer;
+}
+#title{
+    font-family:"»ªÎÄ¿¬Ìå";
+    font-size:25px;
+    margin-left: 40px;
+    margin-top:20px;
+    color:#dddddd;
+}
+#p2{
+    font-family:"Î¢ÈíÑÅºÚ";
+    margin-top: 5px;
+    margin-left: 150px;
+}
+#virtual{
+    position: absolute;
+    font-size: 35px;
+    background-color: #7a7a7a;
+    left: 700px;
+    top: 35px;
+    border-radius: 5px;
+}
+#href{
+    margin:-35px 10px 35px 700px;
+    font-size:25px;
+    color:#dddddd;
+}
+#a3-1{
+    display: none;
+    position:relative;
+    margin-left:230px;
+    font-size:20px;
+    color:#dddddd;
+}
+#a3-2{
+    display: none;
+    position:relative;
+    margin-left:230px;
+    margin-top: 2px;
+    font-size:20px;
+    color:#dddddd;
+}
+.link{
+    margin-left:10px;
+    padding:5px;
+}
+
+
+/*ÂÖ²¥Í¼*/
+#img{
+    position: relative;
+    overflow-y: hidden;
+    margin-top: -30px;
+    height: 600px;
+    width:1500px;
+}
+.img
+{
+    overflow-y: hidden;
+    height:700px;
+    width:1500px;
+}
+.btn
+{
+    position: absolute;
+    height:90px;
+    width:60px;
+    background:#999999;
+    text-align:center;
+    line-height:90px;
+    font-size:50px;
+    top:330px;
+    cursor:pointer;
+
+}
+.btn2
+{
+
+    left:1600px;
+}
+ul{
+    list-style:none;
+}
+#tabs{
+    position:relative;
+    height: 50px;
+    width: 100px;
+    margin-top:0px;
+    margin-left:725px;
+
+}
+.tab{
+    width:20px;
+    height:20px;
+    background-color:#dddddd;
+    float:left;
+    text-align:center;
+    line-height:30px;
+    color:#fff;
+    margin-right:10px;
+    cursor:pointer;
+    border-radius:100%;
+}
+.bg
+{
+    background-color:#f00;
+}
+
+
+/*Í¨ÖªÀ¸*/
+.container{
+    margin-top:60px;
+    margin-left:80px;
+    margin-bottom: 30px;
+}
+#message{
+    margin-left:0px;
+    margin-bottom: 20px;
+    color: #dddddd;
+    font-size:50px;
+    font-family: "Courier New";
+}
+#col-md-1{
+    position: absolute;
+    margin-top: 10px;
+
+
+}
+#col-md-2{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 550px;
+
+}
+#col-md-3{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1100px;
+
+}
+.img-responsive{
+    transform: rotate(90deg);
+}
+.content{
+    margin-top: 80px;
+    color: #dddddd;
+    height:150px;
+    width:150px;
+}
